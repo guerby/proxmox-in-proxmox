@@ -8,8 +8,8 @@ Scripts utilisés pendant la démo Proxmox, sécurité et SDN aux JRES 2024
 * PDF https://conf-ng.jres.org/2024/document_revision_2424.html?download
 * video https://jres.ubicast.tv/permalink/v1268c650f5d41v26pt0/iframe/
 * HTML supplementaire
-** https://resinfo-gt.pages.in2p3.fr/proxmox/doc/
-**  https://resinfo-gt.pages.in2p3.fr/proxmox/doc/proxmox-in-proxmox.html
+    * https://resinfo-gt.pages.in2p3.fr/proxmox/doc/
+    * https://resinfo-gt.pages.in2p3.fr/proxmox/doc/proxmox-in-proxmox.html
 
 
 # Josy Proxmox 8 octobre 2024 a l'IPGP Paris
