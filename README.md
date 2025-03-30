@@ -1,6 +1,6 @@
 # proxmox-in-proxmox
 
-Scripts utilisés pendant la démo Proxmox, sécurité et SDN aux JRES 2024
+Scripts `sNN-*.sh` utilisés pendant le tutoriel JRES Proxmox, sécurité et SDN le vendredi 13 décembre 2024 à Rennes.
 
 ## JRES 13 decembre 2024 a Rennes
 
