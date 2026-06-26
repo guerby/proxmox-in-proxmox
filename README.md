@@ -12,7 +12,8 @@ Scripts `sNN-*.sh` utilisés pendant le tutoriel JRES Proxmox, sécurité et SDN
     * https://resinfo-gt.pages.in2p3.fr/proxmox/doc/proxmox-in-proxmox.html
 
 
-# Josy Proxmox 8 octobre 2024 a l'IPGP Paris
+## Josy Proxmox 8 octobre 2024 a l'IPGP Paris
+
 
 * https://indico.mathrice.fr/event/542/timetable/#20241008
 * https://indico.mathrice.fr/event/542/contributions/1083/
@@ -20,11 +21,15 @@ Scripts `sNN-*.sh` utilisés pendant le tutoriel JRES Proxmox, sécurité et SDN
 * PDF https://indico.mathrice.fr/event/542/contributions/1083/attachments/1172/1771/josy-proxmox-lguerby-2024.pdf
 * video https://webcast.in2p3.fr/video/pca-pra-proxmox-backup-server-sauvegarde-sur-bandes
 
-# PDM Proxmox Datacenter Manager
+
+## PDM Proxmox Datacenter Manager
 
 * https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/
 * https://pve.proxmox.com/wiki/Proxmox_Datacenter_Manager_Roadmap
 
-# PegaProx
+
+## PegaProx
 
 * https://pegaprox.com/
+
+
