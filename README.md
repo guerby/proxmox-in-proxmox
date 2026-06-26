@@ -25,3 +25,6 @@ Scripts `sNN-*.sh` utilisés pendant le tutoriel JRES Proxmox, sécurité et SDN
 * https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/
 * https://pve.proxmox.com/wiki/Proxmox_Datacenter_Manager_Roadmap
 
+# PegaProx
+
+* https://pegaprox.com/
